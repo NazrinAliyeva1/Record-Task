@@ -1,0 +1,14 @@
+C:\Users\99455\source\repos\Record-Task\Record-Task\bin\Debug\net6.0\Record-Task.exe
+C:\Users\99455\source\repos\Record-Task\Record-Task\bin\Debug\net6.0\Record-Task.deps.json
+C:\Users\99455\source\repos\Record-Task\Record-Task\bin\Debug\net6.0\Record-Task.runtimeconfig.json
+C:\Users\99455\source\repos\Record-Task\Record-Task\bin\Debug\net6.0\Record-Task.dll
+C:\Users\99455\source\repos\Record-Task\Record-Task\bin\Debug\net6.0\Record-Task.pdb
+C:\Users\99455\source\repos\Record-Task\Record-Task\obj\Debug\net6.0\Record-Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99455\source\repos\Record-Task\Record-Task\obj\Debug\net6.0\Record-Task.AssemblyInfoInputs.cache
+C:\Users\99455\source\repos\Record-Task\Record-Task\obj\Debug\net6.0\Record-Task.AssemblyInfo.cs
+C:\Users\99455\source\repos\Record-Task\Record-Task\obj\Debug\net6.0\Record-Task.csproj.CoreCompileInputs.cache
+C:\Users\99455\source\repos\Record-Task\Record-Task\obj\Debug\net6.0\Record-Task.dll
+C:\Users\99455\source\repos\Record-Task\Record-Task\obj\Debug\net6.0\refint\Record-Task.dll
+C:\Users\99455\source\repos\Record-Task\Record-Task\obj\Debug\net6.0\Record-Task.pdb
+C:\Users\99455\source\repos\Record-Task\Record-Task\obj\Debug\net6.0\Record-Task.genruntimeconfig.cache
+C:\Users\99455\source\repos\Record-Task\Record-Task\obj\Debug\net6.0\ref\Record-Task.dll
